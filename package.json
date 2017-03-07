@@ -1,0 +1,25 @@
+{
+  "name": "my_package",
+  "version": "1.0.0",
+  "description": "Bot will send SMS after a topic is created on \"A mon tour de programmer\" community",
+  "main": "bot.js",
+  "dependencies": {
+    "json-file": "^0.1.0",
+    "jsonfile": "^2.4.0",
+    "request": "^2.80.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amontourdeprogrammer/sms-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amontourdeprogrammer/sms-bot/issues"
+  },
+  "homepage": "https://github.com/amontourdeprogrammer/sms-bot#readme"
+}
