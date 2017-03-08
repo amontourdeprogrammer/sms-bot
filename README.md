@@ -1,4 +1,4 @@
-# sms-bot
+# Sms-bot
 Bot will send SMS after a topic is created on "A mon tour de programmer" community
 
 What we need to do :
@@ -17,3 +17,12 @@ SMS : Auteur du sujet + Titre + lien
 
 Idées d’outils —>
 Twillio pour les sms
+
+## Setup 
+
+* `npm install`
+
+Le data.json doit contenir au minimum un tableau vide;
+Pour lancer le bot 
+`node bot.js`
+
